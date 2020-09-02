@@ -1,1 +1,1 @@
-This is just a sample.Trying first trigger with code commit
+This is just a sample.Trying first trigger with code commit.Trying for pom changes
